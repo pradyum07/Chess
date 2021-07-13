@@ -1,1 +1,1 @@
-Chess game in Turbo C++ using graphics library.
+Chess game in Turbo C++ using graphics.h library.
